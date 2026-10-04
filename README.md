@@ -1,6 +1,16 @@
 # Autonomous Video Studio
 
-V0 d’un atelier de montage local assisté par agent : consignes, contrat JSON de timeline et smoke test FFmpeg. Ce n’est pas encore un logiciel de montage autonome : ni interface graphique, ni exécuteur de timeline, ni transcription ou montage automatique livré.
+## En bref
+
+**Ce que c’est :** une première version d’atelier local pour préparer un montage vidéo à partir de consignes et d’une timeline JSON.
+
+**À quoi il sert :** formaliser les clips, timecodes, transitions et la provenance d’un futur rendu, puis vérifier qu’une chaîne FFmpeg fonctionne.
+
+**Ce qui a été réalisé :** contrat de timeline, règles de travail de l’atelier et smoke test qui génère, inspecte, découpe, concatène et normalise un média synthétique.
+
+**Technologies :** zsh, JSON Schema, FFmpeg, ffprobe et jq.
+
+Le projet ne livre pas encore d’interface graphique, d’exécuteur de timeline, de transcription ou de montage automatique.
 
 ## Contenu
 
