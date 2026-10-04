@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+temp/*
+!temp/.gitkeep
+output/*
+!output/.gitkeep
+projects/*/source/*
+projects/*/temp/*
+projects/*/renders/*
+projects/*/broll/*
+projects/*/transcript/*
+projects/*/research/*
+projects/*/timeline/rendered/*
+
