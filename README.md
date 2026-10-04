@@ -36,4 +36,8 @@ V1 attend une validation explicite. Suite : exemple de timeline validé, contrô
 
 ## Distribution
 
-Workflow CLI, sans binaire ni service web. Publication GitHub en attente. Rushs, projets privés et exports personnels exclus de cette copie. Cette copie de publication démarre un nouvel historique Git : l’historique local contient une référence de persona privée supprimée du checkout actuel et n’est pas importé. Le dépôt original et ses dates ne sont pas modifiés.
+Workflow CLI, sans binaire ni service web. Rushs, projets privés et exports personnels exclus de cette copie. Cette copie de publication démarre un nouvel historique Git : l’historique local contient une référence de persona privée supprimée du checkout actuel et n’est pas importé. Le dépôt original et ses dates ne sont pas modifiés.
+
+## Dépôt et téléchargement
+
+[Voir le dépôt](https://github.com/cpointis96-hue/autonomous-video-studio) · [Télécharger les sources ZIP](https://github.com/cpointis96-hue/autonomous-video-studio/archive/HEAD.zip). Le ZIP contient le workflow et ses scripts, sans application installable.
